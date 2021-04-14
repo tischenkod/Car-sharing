@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="CarSharingTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-03-30T22:41:39" hostname="DIMA" time="1.059">
+<testsuite name="CarSharingTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-04-07T14:39:22" hostname="DIMA" time="1.599">
   <properties/>
-  <testcase name="start" classname="CarSharingTest" time="1.059"/>
+  <testcase name="start" classname="CarSharingTest" time="1.599"/>
   <system-out><![CDATA[?[1;31m
 Start test 1?[0m
 1. Log in as a manager
